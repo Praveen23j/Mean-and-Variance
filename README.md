@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-Name:DHANUSSH ELANGO
-Reg no:212224040069
+Name:J.PRAVEEN
+Reg no:212224230205
 
 
 # Aim : 
